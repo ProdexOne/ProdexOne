@@ -2,10 +2,11 @@
 
 ## 📜 About Me:
 
-- 🔭 I’m currently working on PWAs
-- 🌱 I’m currently learning NextJS, OpenCV and building projects...
-- 💬 Ask me about Coding, Chess, Gaming or pretty anything! I would be happy to help 😊
-- ⚡ Fun fact: I'm "Jack of all trades"
+ ➡️ Self-taught Full stack developer, likes to develop cool and amazing featured websites. Also explore other new technologies like PWAs, WebRTC, containers, etc.
+
+ 📝 I like to work with Python and JavaScript (although I also know C++ and Java). Frequently use Html, Css, Sass, tailwindcss, NodeJS, Express, React, NextJS, parcel and laravel-mix bundler. Design website's UI/UX using Figma. MongoDB & MySQL CRUD operations.
+
+ ✍️ Currently working on PWAs, WebRTC, CMS and user authentication.
 
 ## 📫 How to reach me:
 
