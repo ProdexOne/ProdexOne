@@ -12,8 +12,8 @@
 
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="35px"/>](https://twitter.com/AnujS_IN)
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="35px"/>](https://www.linkedin.com/in/anujofficial/)
-<!--[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="35px"/>](https://www.instagram.com/)-->
 <a href="mailto:theanujmail@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="35px"/> </a>
+<!-- [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="35px"/>](https://www.instagram.com/) -->
 
 <h2 align="left">🛠 Languages and Tools:</h2>
 
